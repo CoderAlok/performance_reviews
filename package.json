@@ -1,0 +1,20 @@
+{
+  "name": "performance_reviews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoderAlok/performance_reviews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoderAlok/performance_reviews/issues"
+  },
+  "homepage": "https://github.com/CoderAlok/performance_reviews#readme"
+}
